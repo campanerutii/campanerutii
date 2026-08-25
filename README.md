@@ -1,176 +1,127 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111827,100:00F7FF&height=200&section=header&text=PEPE&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Technology%20%7C%20Creative%20Projects&descAlignY=62&descSize=18" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                         SYSTEM BOOT                            -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050505,50:111111,100:1a1a1a&text=CAMPANERUTII&fontColor=ffffff&fontSize=48&fontAlignY=40&desc=SYSTEM%20INITIALIZED%20%E2%80%A2%20WELCOME%20TO%20MY%20GITHUB&descAlignY=62&descSize=14&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=800&lines=%3E+Initializing+developer+profile...;%3E+Loading+HTML+%2F+CSS+%2F+JavaScript...;%3E+Loading+Python+%2B+SQL...;%3E+Building+ideas+into+code...;%3E+System+ready+%E2%9C%93" alt="Typing Animation"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=%3E+Initializing+developer.exe...;%3E+Loading+HTML+%2F+CSS+%2F+JavaScript...;%3E+Loading+Python+%2F+SQL...;%3E+Exploring+Artificial+Intelligence...;%3E+System+online+%E2%9C%93" alt="Typing Animation"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00F7FF?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/FOCUS-DEVELOPMENT-00F7FF?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/LEARNING-ALWAYS-00F7FF?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-ffffff?style=for-the-badge&labelColor=111111&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/FOCUS-DEVELOPMENT-ffffff?style=for-the-badge&labelColor=111111"/>
+<img src="https://img.shields.io/badge/BASED_IN-BRAZIL-ffffff?style=for-the-badge&labelColor=111111"/>
 
 </div>
 
+<br>
+
 ---
 
-# `> whoami`
+## `> whoami`
 
-```python
-class Developer:
+<table>
+<tr>
+<td width="55%" valign="top">
 
-    def __init__(self):
-        self.name = "Pedro"
-        self.role = "Student & Developer"
-
-        self.languages = [
-            "HTML",
-            "CSS",
-            "JavaScript",
-            "Python",
-            "SQL"
-        ]
-
-        self.interests = [
-            "Web Development",
-            "Artificial Intelligence",
-            "Programming",
-            "Creative Technology"
-        ]
-
-    def status(self):
-        return "Building something new..."
-```
-
-### 👋 Sobre mim
-
-Sou estudante e desenvolvedor apaixonado por **programação, tecnologia e criação de projetos**.
-
-Atualmente estou focado em desenvolver minhas habilidades em **desenvolvimento web, Python e bancos de dados**, enquanto exploro novas possibilidades envolvendo **inteligência artificial**.
-
-Gosto principalmente de transformar ideias em projetos funcionais — desde interfaces web até pequenos experimentos e aplicações.
+### 👨‍💻 Sobre Mim
 
 ```text
-┌───────────────────────────────────────────────┐
-│                                               │
-│  > PASSION                                    │
-│    Code • Create • Experiment • Learn         │
-│                                               │
-│  > MINDSET                                    │
-│    Build → Break → Fix → Improve              │
-│                                               │
-└───────────────────────────────────────────────┘
+Nome      : Pedro Campaneruti
+Username  : campanerutii
+Área      : Desenvolvimento & Tecnologia
+Status    : Sempre aprendendo...
 ```
+
+Sou estudante e desenvolvedor apaixonado por tecnologia, programação e criação de projetos.
+
+Gosto de transformar ideias em aplicações reais, explorando principalmente **desenvolvimento web, Python e bancos de dados**.
+
+Meu objetivo é continuar evoluindo, criar projetos cada vez mais completos e construir uma trajetória sólida na área de tecnologia.
+
+> `while(alive) { learn(); build(); repeat(); }`
+
+</td>
+
+<td width="45%" align="center" valign="middle">
+
+<img src="https://github-readme-stats.vercel.app/api?username=campanerutii&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&include_all_commits=true&count_private=true" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-# `> tech --stack`
+## `> tech_stack`
 
-<div align="center">
+### 🧠 Linguagens & Desenvolvimento
 
-### 💻 Linguagens & Tecnologias
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,sql&theme=dark" />
 
-<br><br>
+</p>
 
 ### 🛠️ Ferramentas
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,windows&theme=dark" />
+<p align="center">
 
-</div>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,windows,figma&theme=dark" />
+
+</p>
 
 ---
 
-# `> projects --list`
+## `> projects`
 
-<div align="center">
+### 🚀 Projetos & Experimentos
 
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-## 🌐 Web Development
+### 🌐 Web Development
 
-Projetos focados em interfaces, experiências interativas e desenvolvimento web.
+Projetos focados em interfaces modernas, experiências interativas e aplicações utilizando:
 
-```text
-TYPE
-HTML / CSS / JAVASCRIPT
-
-STATUS
-████████░░ 80%
-```
+`HTML` `CSS` `JavaScript`
 
 <a href="https://github.com/campanerutii?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_PROJECTS-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/EXPLORE_PROJECTS-ffffff?style=for-the-badge&labelColor=111111"/>
 </a>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-## 🐍 Python Lab
+### 🐍 Python
 
-Experimentos, aplicações e projetos desenvolvidos utilizando Python.
+Automação, lógica, aplicações e experimentos desenvolvidos com Python.
 
-```text
-TYPE
-PYTHON
-
-STATUS
-███████░░░ 70%
-```
+`Python` `APIs` `Automation`
 
 <a href="https://github.com/campanerutii?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_PROJECTS-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/VIEW_REPOSITORIES-ffffff?style=for-the-badge&labelColor=111111"/>
 </a>
 
 </td>
 
-</tr>
+<td width="33%" valign="top">
 
-<tr>
+### 🗄️ Data & SQL
 
-<td width="50%" valign="top">
+Projetos envolvendo organização, consulta e manipulação de dados.
 
-## 🤖 Artificial Intelligence
-
-Explorando IA, automação e novas formas de utilizar tecnologia para resolver problemas.
-
-```text
-TYPE
-AI / PYTHON
-
-STATUS
-█████░░░░░░ 50%
-```
+`SQL` `Database` `Data`
 
 <a href="https://github.com/campanerutii?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🗄️ SQL & Data
-
-Estudando bancos de dados, consultas SQL e organização de informações.
-
-```text
-TYPE
-SQL / DATABASE
-
-STATUS
-██████░░░░░ 60%
-```
-
-<a href="https://github.com/campanerutii?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/SEE_MORE-ffffff?style=for-the-badge&labelColor=111111"/>
 </a>
 
 </td>
@@ -178,121 +129,106 @@ STATUS
 </tr>
 </table>
 
-</div>
-
 ---
 
-# `> current_objectives`
+## `> current_objectives`
 
 ```bash
-┌──[ pepe@github ]─[ ~/development ]
+┌──[campanerutii@github]─[~/development]
 │
-├── $ cat objectives.txt
+├── $ current_goals
 │
-│   [✓] Aprender HTML & CSS
-│   [✓] Desenvolver projetos com JavaScript
-│   [✓] Praticar Python
-│   [✓] Aprender SQL
+├── [✓] Aprender continuamente
+├── [✓] Criar projetos próprios
+├── [→] Evoluir em JavaScript
+├── [→] Aprofundar Python
+├── [→] Melhorar conhecimentos em SQL
+├── [→] Explorar novas tecnologias
 │
-│   [→] Aprofundar JavaScript
-│   [→] Explorar Inteligência Artificial
-│   [→] Criar projetos maiores
-│   [→] Melhorar minhas habilidades de programação
-│   [→] Contribuir para projetos Open Source
-│
-└── $ _
+└── $ echo "building the future..."
+    building the future...
 ```
 
 ---
 
-# `> github --stats`
+## `> github_statistics`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=campanerutii&show_icons=true&hide_border=true&bg_color=050505&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&ring_color=00F7FF" height="180"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=campanerutii&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=campanerutii&layout=compact&hide_border=true&bg_color=050505&title_color=00F7FF&text_color=FFFFFF&langs_count=8" height="180"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=campanerutii&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=ffffff&text_color=aaaaaa"/>
 
-<br><br>
+</div>
 
-<img src="https://streak-stats.demolab.com?user=campanerutii&theme=dark&hide_border=true&background=050505&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" width="70%"/>
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=campanerutii&theme=transparent&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=777777&currStreakNum=ffffff&sideNums=ffffff" />
 
 </div>
 
 ---
 
-# `> activity --monitor`
+## `> activity`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=campanerutii&bg_color=050505&color=FFFFFF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=campanerutii&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
 
 </div>
 
 ---
 
-# `> achievements --trophies`
+## `> achievements`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=campanerutii&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=7" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=campanerutii&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" width="90%"/>
 
 </div>
 
 ---
 
-# `> contributions --snake`
+## `> contribution_matrix`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/campanerutii/campanerutii/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 </div>
 
 ---
 
-# `> connect`
+## `> connect`
 
 <div align="center">
 
 <a href="https://github.com/campanerutii">
-<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/pedro-campaneruti-818049410/">
-<img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:pnardin.1000@gmail.com">
-<img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
+<a href="https://www.instagram.com/campanerutii._/">
+<img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
 
 <br>
 
----
-
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════╗
-║                                                  ║
-║             SYSTEM STATUS: ONLINE                ║
-║                                                  ║
-║       HTML        ████████████████████  100%     ║
-║       CSS         ███████████████████░   95%     ║
-║       JAVASCRIPT  ████████████████░░░░   80%     ║
-║       PYTHON      ███████████████░░░░░   75%     ║
-║       SQL         ████████████░░░░░░░░   60%     ║
-║                                                  ║
-║             KEEP BUILDING. KEEP LEARNING.       ║
-║                                                  ║
-╚══════════════════════════════════════════════════╝
-```
+### `01001000 01101001 👋`
 
-<br>
+<img src="https://komarev.com/ghpvc/?username=campanerutii&style=for-the-badge&color=111111&label=PROFILE+VIEWS"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:111827,100:050505&height=100&section=footer" width="100%"/>
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1a1a1a,50:111111,100:050505&section=footer"/>
 
 </div>
