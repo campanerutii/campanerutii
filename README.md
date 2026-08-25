@@ -223,8 +223,6 @@ Projetos envolvendo organização, consulta e manipulação de dados.
 
 <div align="center">
 
-### `01001000 01101001 👋`
-
 <img src="https://komarev.com/ghpvc/?username=campanerutii&style=for-the-badge&color=111111&label=PROFILE+VIEWS"/>
 
 <br><br>
