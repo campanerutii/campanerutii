@@ -49,8 +49,6 @@ Meu objetivo é continuar evoluindo, criar projetos cada vez mais completos e co
 
 <td width="45%" align="center" valign="middle">
 
-<img src="https://github-readme-stats.vercel.app/api?username=campanerutii&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&include_all_commits=true&count_private=true" width="100%"/>
-
 </td>
 </tr>
 </table>
