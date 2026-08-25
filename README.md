@@ -51,6 +51,12 @@ Meu objetivo é continuar evoluindo, criar projetos cada vez mais completos e co
 
 </td>
 </tr>
+
+<td width="50%" align="center" valign="middle">
+      <img src="https://giphy.com/gifs/code-matrix-wallpaper-A06UFEx8jxEwU" width="80%" alt="GIF animado" />
+</td>
+
+
 </table>
 
 ---
