@@ -64,7 +64,7 @@ Meu objetivo é continuar evoluindo, criar projetos cada vez mais completos e co
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,sql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,postgres&theme=dark" />
 
 </p>
 
@@ -72,7 +72,7 @@ Meu objetivo é continuar evoluindo, criar projetos cada vez mais completos e co
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,windows,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,windows,linux,figma&theme=dark" />
 
 </p>
 
