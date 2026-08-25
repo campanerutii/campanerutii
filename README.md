@@ -173,6 +173,7 @@ Projetos envolvendo organização, consulta e manipulação de dados.
 
 <a href="mailto:pnardin.1000@gmail.com">
 <img scr="https://skillicons.dev/icons?i=gmail&theme=light">
+</a>
 
 <a href="https://www.instagram.com/campanerutii._/">
 <img src="https://skillicons.dev/icons?i=instagram"/>
@@ -184,7 +185,6 @@ Projetos envolvendo organização, consulta e manipulação de dados.
 
 <div align="center">
 
-<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:111827,100:050505&height=100&section=footer" width="100%">
 
