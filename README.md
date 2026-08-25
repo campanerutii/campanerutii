@@ -6,7 +6,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050505,50:111111,100:1a1a1a&text=CAMPANERUTII&fontColor=ffffff&fontSize=48&fontAlignY=40&desc=SYSTEM%20INITIALIZED%20%E2%80%A2%20WELCOME%20TO%20MY%20GITHUB&descAlignY=62&descSize=14&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111827,100:00F7FF&height=180&section=header&text=PEPE&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Creative%20Developer%20%7C%20Code%20%7C%20Technology%20%7C%20AI&descAlignY=60&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=800&lines=%3E+Initializing+developer+profile...;%3E+Loading+HTML+%2F+CSS+%2F+JavaScript...;%3E+Loading+Python+%2B+SQL...;%3E+Building+ideas+into+code...;%3E+System+ready+%E2%9C%93" alt="Typing Animation"/>
 
@@ -151,46 +151,6 @@ Projetos envolvendo organização, consulta e manipulação de dados.
 
 ---
 
-## `> github_statistics`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=campanerutii&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=campanerutii&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=ffffff&text_color=aaaaaa"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=campanerutii&theme=transparent&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=777777&currStreakNum=ffffff&sideNums=ffffff" />
-
-</div>
-
----
-
-## `> activity`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=campanerutii&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
-
-</div>
-
----
-
-## `> achievements`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=campanerutii&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" width="90%"/>
-
-</div>
-
----
-
 ## `> contribution_matrix`
 
 <div align="center">
@@ -223,10 +183,8 @@ Projetos envolvendo organização, consulta e manipulação de dados.
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=campanerutii&style=for-the-badge&color=111111&label=PROFILE+VIEWS"/>
-
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1a1a1a,50:111111,100:050505&section=footer"/>
+<img src="[https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1a1a1a,50:111111,100:050505&section=footer](https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:111827,100:050505&height=100&section=footer%22%20width=%22100%)"/>
 
 </div>
