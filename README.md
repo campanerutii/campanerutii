@@ -164,15 +164,15 @@ Projetos envolvendo organização, consulta e manipulação de dados.
 <div align="center">
 
 <a href="https://github.com/campanerutii">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=github&theme=dark"/>
 </a>
 
 <a href="https://www.linkedin.com/in/pedro-campaneruti-818049410/">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="https://www.instagram.com/campanerutii._/">
-<img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
 </div>
