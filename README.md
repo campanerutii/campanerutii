@@ -6,7 +6,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111827,100:00F7FF&height=180&section=header&text=PEPE&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Creative%20Developer%20%7C%20Code%20%7C%20Technology%20%7C%20AI&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111827,100:00F7FF&height=180&section=header&text=PEDRO%20CAMPANERUTI&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Creative%20Developer%20%7C%20Code%20%7C%20Technology%20%7C%20AI&descAlignY=60&descSize=18%22%20width=%22100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=800&lines=%3E+Initializing+developer+profile...;%3E+Loading+HTML+%2F+CSS+%2F+JavaScript...;%3E+Loading+Python+%2B+SQL...;%3E+Building+ideas+into+code...;%3E+System+ready+%E2%9C%93" alt="Typing Animation"/>
 
