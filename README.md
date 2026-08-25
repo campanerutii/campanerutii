@@ -48,7 +48,7 @@ Meu objetivo é continuar evoluindo, criar projetos cada vez mais completos e co
 </td>
 
 <td width="45%" align="center" valign="middle">
-<img src="https://giphy.com/embed/A06UFEx8jxEwU" width="80%" alt="GIF animado" />
+<img src="https://giphy.com/embed/ksE9feSa2b4V2GYwY4" width="80%" alt="GIF animado" />
 
 </td>
 </tr>
