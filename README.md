@@ -48,13 +48,10 @@ Meu objetivo é continuar evoluindo, criar projetos cada vez mais completos e co
 </td>
 
 <td width="45%" align="center" valign="middle">
+<img src="https://giphy.com/embed/A06UFEx8jxEwU" width="80%" alt="GIF animado" />
 
 </td>
 </tr>
-
-<td width="50%" align="center" valign="middle">
-      <img src="https://giphy.com/gifs/code-matrix-wallpaper-A06UFEx8jxEwU" width="80%" alt="GIF animado" />
-</td>
 
 
 </table>
