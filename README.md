@@ -184,7 +184,7 @@ Projetos envolvendo organização, consulta e manipulação de dados.
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=50:8800FF,100:000000&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=25:8800FF,75:000000&height=100&section=footer" width="100%" />
 </p>
 
 
