@@ -144,7 +144,7 @@ Projetos envolvendo organização, consulta e manipulação de dados.
 ├── [→] Evoluir em JavaScript
 ├── [→] Aprofundar Python
 ├── [→] Melhorar conhecimentos em SQL
-├── [→] Explorar novas tecnologias
+├── [→] Explorar novas tecnologias como arduino, elétrica
 │
 └── $ echo "building the future..."
     building the future...
