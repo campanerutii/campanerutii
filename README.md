@@ -295,6 +295,4 @@ STATUS
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:111827,100:050505&height=100&section=footer" width="100%"/>
 
-<sub>⚡ Built with curiosity, code and caffeine.</sub>
-
 </div>
